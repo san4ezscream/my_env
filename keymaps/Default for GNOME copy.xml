@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSplitLine" />
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ViewSource" />
+</keymap>
